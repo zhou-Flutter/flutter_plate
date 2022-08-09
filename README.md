@@ -10,5 +10,5 @@
 
 ## Exhibition
 
-|  <img width="50%" height="38%" src=""/>  | <img width="38%" height="38%" src=""/>     |
+  |  <img width="28%" height="28%" src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/3D_Card.gif?raw=true"/>  | <img width="38%" height="38%" src=""/>     |
 
