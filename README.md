@@ -6,7 +6,7 @@
 
 ## contents
 
-<img width="20%" height="20%" src="https://raw.githubusercontent.com/zhou-Flutter/flutter_plate/master/assets/plate.jpg"/>
+<img width="28%" height="28%" src="https://raw.githubusercontent.com/zhou-Flutter/flutter_plate/master/assets/plate.jpg"/>
 
 ## Exhibition
 
