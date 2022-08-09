@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_plate/widget/card_3d_page.dart';
+import 'package:flutter_plate/widget/simulation_book/read.dart';
 import 'package:flutter_plate/widget/snowflake_page.dart';
 
 void main() {
@@ -32,6 +33,7 @@ class _PlateListState extends State<PlateList> {
   List plate = [
     {"title": "3D卡片", "page": Card3DPage()},
     {"title": "下雪效果", "page": SnowFlakePage()},
+    {"title": "仿真翻页", "page": Read()},
   ];
 
   @override
