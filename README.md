@@ -12,6 +12,8 @@
 
 <div>
 <img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/3D_Card.gif?raw=true" width="240px" height="426px"/>
+<img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/snowflake.gif?raw=true" width="240px" height="426px"/>
+<img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/simulate_page.gif?raw=true" width="240px" height="426px"/>
 
 </div>
 
