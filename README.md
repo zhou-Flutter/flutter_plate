@@ -4,6 +4,8 @@
 
 学无止境 永不停步
 
+图片有点大，加载不出来的话，用外网或者拉到本地
+
 ## contents
 
 <img width="28%" height="28%" src="https://raw.githubusercontent.com/zhou-Flutter/flutter_plate/master/assets/plate.jpg"/>
