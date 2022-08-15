@@ -163,5 +163,14 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "2.1.2"
+  zflutter:
+    dependency: "direct main"
+    description:
+      path: zflutter
+      ref: master
+      resolved-ref: b33c108cf0647e54cde17f4785b672fcd5c228b0
+      url: "https://github.com/zhou-Flutter/zflutter.git"
+    source: git
+    version: "0.0.1+3"
 sdks:
   dart: ">=2.17.3 <3.0.0"
