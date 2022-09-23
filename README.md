@@ -7,20 +7,23 @@
 图片有点大，加载不出来的话，用外网或者拉到本地
 
 ## contents
+    {"title": "3D卡片", "page": Card3DPage()},
+    {"title": "下雪效果", "page": SnowFlakePage()},
+    {"title": "仿真翻页", "page": Read()},
+    {"title": "zflutter 伪3D", "page": ZFlutterUse()},
+    {"title": "仿soul 3D星球", "page": PlanetPage()},
 
-<img width="28%" height="28%" src="https://raw.githubusercontent.com/zhou-Flutter/flutter_plate/master/assets/plate.jpg"/>
 
 ## Exhibition
 
 <div>
-<img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/3D_Card.gif?raw=true" width="240px" height="426px"/>
-<img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/snowflake.gif?raw=true" width="240px" height="426px"/>
-<img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/simulate_page.gif?raw=true" width="240px" height="426px"/>
-<img src="https://raw.githubusercontent.com/zhou-Flutter/flutter_plate/master/assets/zFlutter.gif" width="240px" height="426px"/>
-
-
-
-
+  <img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/3D_Card.gif?raw=true" width="240px" height="426px"/>
+  <img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/snowflake.gif?raw=true" width="240px" height="426px"/>
+  <img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/simulate_page.gif?raw=true" width="240px" height="426px"/>
+  <img src="https://raw.githubusercontent.com/zhou-Flutter/flutter_plate/master/assets/zFlutter.gif" width="240px" height="426px"/>
+  <img src="https://raw.githubusercontent.com/zhou-Flutter/flutter_plate/master/assets/planet.gif" width="240px" height="426px"/>
+ 
+ 
 </div>
 
  
