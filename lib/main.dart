@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_plate/widget/card_3d_page.dart';
+import 'package:flutter_plate/widget/planet/planet_page.dart';
 import 'package:flutter_plate/widget/simulation_book/read.dart';
 import 'package:flutter_plate/widget/snowflake_page.dart';
 import 'package:flutter_plate/widget/z_flutter.dart';
@@ -36,6 +37,7 @@ class _PlateListState extends State<PlateList> {
     {"title": "下雪效果", "page": SnowFlakePage()},
     {"title": "仿真翻页", "page": Read()},
     {"title": "zflutter 伪3D", "page": ZFlutterUse()},
+    {"title": "仿soul 3D星球", "page": PlanetPage()},
   ];
 
   @override
