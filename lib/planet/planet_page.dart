@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter_plate/widget/planet/planet.dart';
+import 'package:flutter_plate/planet/planet.dart';
 
 class PlanetPage extends StatefulWidget {
   const PlanetPage({Key? key}) : super(key: key);

@@ -4,7 +4,7 @@
 
 学无止境 永不停步
 
-图片有点大，加载不出来的话，用外网或者拉到本地
+
 
 ## contents
     {"title": "3D卡片", "page": Card3DPage()},
@@ -12,11 +12,14 @@
     {"title": "仿真翻页", "page": Read()},
     {"title": "zflutter 伪3D", "page": ZFlutterUse()},
     {"title": "仿soul 3D星球", "page": PlanetPage()},
+    {"title": "断点续传 多任务下载", "page": DownloadPage()},
 
 
 ## Exhibition
+图片有点大，加载不出来的话，科学上网或者拉到本地
 
 <div>
+
   <img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/3D_Card.gif?raw=true" width="240px" height="426px"/>
   <img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/snowflake.gif?raw=true" width="240px" height="426px"/>
   <img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/simulate_page.gif?raw=true" width="240px" height="426px"/>

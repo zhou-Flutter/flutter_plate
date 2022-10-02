@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/physics.dart';
-import 'package:flutter_plate/widget/planet/planet_tag_info.dart';
+import 'package:flutter_plate/planet/planet_tag_info.dart';
 
 import 'package:vector_math/vector_math_64.dart' show Vector3;
 
