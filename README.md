@@ -25,6 +25,10 @@
   <img src="https://github.com/zhou-Flutter/flutter_plate/blob/master/assets/simulate_page.gif?raw=true" width="240px" height="426px"/>
   <img src="https://raw.githubusercontent.com/zhou-Flutter/flutter_plate/master/assets/zFlutter.gif" width="240px" height="426px"/>
   <img src="https://raw.githubusercontent.com/zhou-Flutter/flutter_plate/master/assets/planet.gif" width="240px" height="426px"/>
+  <img src="https://raw.githubusercontent.com/zhou-Flutter/flutter_plate/master/assets/download.gif" width="240px" height="426px"/>
+  
+  
+  
  
  
 </div>
